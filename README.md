@@ -1,4 +1,4 @@
-# MIDDMARKIT
+# MIDDMARKIT - Automatic Instagram Uploader
 
 ## Files
 
