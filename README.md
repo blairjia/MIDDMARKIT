@@ -26,5 +26,5 @@ Item class containing usueful information about each retreived item, and also in
 ###### main.py
 Main function that when triggered retrieves data from a google spreadsheet, and autimatically generates a post with a caption and uploads onto instagram.
 
-###### main.delete.y 
+###### main.delete.py 
 Main function that when triggered, autimatically deletes the specific post.
